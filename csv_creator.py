@@ -1,9 +1,13 @@
 import json
 from typing import List
 import pandas as pd
+import sys
+from constants import *
 
 
-with open("data/Modulhandbuch.json") as f:
+degree = sys.argv[1] if len(sys.argv) > 1 else INDEX_URLS[0]
+
+with open(f"data/Modulhandbuch-{degree}.json") as f:
     root = json.load(f)
 
 
@@ -28,10 +32,10 @@ module_df = module_df[
     ["Kennung", "Titel", "Ver", "Gew", "LP", "Sem", "Modulturnus", "Moduldauer"]
 ]
 module_df = module_df.replace("\n", "", regex=True)
-module_df.to_csv("data/modules.csv", index=False, sep=";")
+module_df.to_csv(f"data/Module-{degree}.csv", index=False, sep=";")
 
 
 course_df = pd.DataFrame.from_dict(courses)
 course_df = course_df[["Modul", "Kennung", "Titel", "Ver", "Gew", "LP", "Sem"]]
 course_df = course_df.replace("\n", "", regex=True)
-course_df.to_csv("data/courses.csv", index=False, sep=";")
+course_df.to_csv(f"data/Veranstaltungen-{degree}.csv", index=False, sep=";")

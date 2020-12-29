@@ -46,8 +46,9 @@ def _parse_xml_row(columns: List[str], tds: ET.Element) -> dict:
         else:
             text = td.text
 
-        text = _strip_text(text)
-        result[column] = text
+        if text is not None:
+            text = _strip_text(text)
+        result[column] = text or ""
     return result
 
 

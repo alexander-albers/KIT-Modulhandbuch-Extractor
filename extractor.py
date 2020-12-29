@@ -3,13 +3,16 @@ from constants import *
 from time import sleep
 import json
 from tqdm import tqdm
+import sys
 
+
+degree = sys.argv[1] if len(sys.argv) > 1 else INDEX_URLS[0]
 
 ################################################################
 # GET MODULES
 ################################################################
 
-subjects = cas_parser.get_modules(INDEX_URL)
+subjects = cas_parser.get_modules(INDEX_URLS[degree])
 for subject in tqdm(subjects, "Suche Module"):
     modules = cas_parser.get_modules(BASE_URL + subject["href"])
     sleep(1)
@@ -54,6 +57,6 @@ for course_id in tqdm(unique_course_ids, "Lade Veranstaltungen"):
 ################################################################
 
 print("Exportiere...", end="")
-with open("data/Modulhandbuch.json", "w") as f:
+with open(f"data/Modulhandbuch-{degree}.json", "w") as f:
     json.dump(subjects, f)
 print("fertig!")

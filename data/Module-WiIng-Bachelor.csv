@@ -1,0 +1,81 @@
+Kennung;Titel;Ver;Gew;LP;Sem;Modulturnus;Moduldauer
+M-WIWI-100950;Orientierungsprüfung;1;0;0,0;0;Jedes Semester;2 Semester
+M-WIWI-101601;Modul Bachelorarbeit;5;1;12,0;0;Jedes Semester;1 Semester
+M-WIWI-101419;Berufspraktikum;2;1;10,0;0;Einmalig;1 Semester
+M-WIWI-101494;Grundlagen BWL 1;1;1;7,0;0;Jedes Semester;1 Semester
+M-WIWI-101578;Grundlagen BWL 2;1;1;8,0;1;Jedes Semester;2 Semester
+M-WIWI-101467;Bauökologie;3;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101498;Controlling (Management Accounting);2;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101434;eBusiness und Service Management;9;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101402;eFinance;8;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101464;Energiewirtschaft;3;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101435;Essentials of Finance;2;2;9,0;3;Jedes Sommersemester;1 Semester
+M-WIWI-102752;Fundamentals of Digital Service Systems;6;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101424;Grundlagen des Marketing;5;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101437;Industrielle Produktion I;3;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-104911;Information Systems & Digital Business: Interaction;3;2;9,0;3 - 4;Jedes Semester;2 Semester
+M-WIWI-104912;Information Systems & Digital Business: Platforms;4;2;9,0;3 - 4;Jedes Semester;2 Semester
+M-WIWI-104913;Information Systems & Digital Business: Servitization;2;2;9,0;3 - 4;Jedes Semester;2 Semester
+M-WIWI-101513;Personal und Organisation;4;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101466;Real Estate Management;2;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101425;Strategie und Organisation;4;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101465;Topics in Finance I;8;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101423;Topics in Finance II;9;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-105482;Machine Learning und Data Science;1;2;9,0;0 - 1;Jedes Semester;2 Semester
+M-WIWI-101398;Einführung in die Volkswirtschaftslehre;1;1;10,0;0;Jedes Semester;2 Semester
+M-WIWI-101499;Angewandte Mikroökonomik;3;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101403;Finanzwissenschaft;5;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101599;Statistik und Ökonometrie;4;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-105414;Statistik und Ökonometrie II;1;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101668;Wirtschaftspolitik I;9;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101501;Wirtschaftstheorie;3;2;9,0;3;Jedes Semester;2 Semester
+M-WIWI-101417;Grundlagen der Informatik;1;1;10,0;0;Jedes Semester;2 Semester
+M-WIWI-101581;Einführung in die Programmierung;1;1;5,0;0;Jedes Wintersemester;1 Semester
+M-WIWI-105112;Angewandte Informatik;1;2;9,0;0;Jedes Semester;1 Semester
+M-WIWI-101418;Einführung in das Operations Research;1;1;9,0;1;Jedes Sommersemester;2 Semester
+M-WIWI-101413;Anwendungen des Operations Research;9;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-101414;Methodische Grundlagen des OR;9;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-103278;Optimierung unter Unsicherheit;4;2;9,0;3;Jedes Semester;1 Semester
+M-ETIT-101155;Elektrotechnik;1;1;3,0;0;Jedes Wintersemester;1 Semester
+M-MACH-101259;Technische Mechanik;1;1;3,0;0;Jedes Wintersemester;1 Semester
+M-WIWI-101839;Weiterführende ingenieurwissenschaftliche Grundlagen;4;1;3,0;0;Jedes Semester;1 Semester
+M-MACH-101260;Werkstoffkunde;1;1;3,0;0;Jedes Wintersemester;1 Semester
+M-WIWI-101404;Außerplanmäßiges Ingenieurmodul;5;2;9,0;3;Einmalig;1 Semester
+M-MACH-101274;Bahnsystemtechnik;4;2;9,0;3;Jedes Semester;1 Semester
+M-WIWI-104838;Einführung in Naturgefahren und Risikoanalysen;3;2;9,0;3;Jedes Semester;1 Semester
+M-ETIT-102379;Elektrische Energienetze;3;2;9,0;3;Jedes Wintersemester;1 Semester
+M-MACH-101264;Fahrzeugeigenschaften;4;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101265;Fahrzeugentwicklung;5;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101266;Fahrzeugtechnik;4;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101276;Fertigungstechnik;5;2;9,0;3;Jedes Wintersemester;1 Semester
+M-BGU-101004;Grundlagen des Baubetriebs;2;2;9,0;3 - 4;Jedes Semester;2 Semester
+M-MACH-101272;Integrierte Produktionsplanung;3;2;9,0;3;Jedes Sommersemester;1 Semester
+M-MACH-105298;Logistik und Supply Chain Management;1;1;9,0;0;Jedes Sommersemester;1 Semester
+M-MACH-101299;Maschinenkonstruktionslehre;3;2;9,0;3;Jedes Wintersemester;2 Semester
+M-MACH-101277;Materialfluss in Logistiksystemen;3;2;9,0;3;Jedes Wintersemester;1 Semester
+M-MACH-101287;Mikrosystemtechnik;3;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101267;Mobile Arbeitsmaschinen;3;2;9,0;3;Jedes Semester;2 Semester
+M-BGU-101067;Mobilität und Infrastruktur;2;2;9,0;3;Jedes Sommersemester;1 Semester
+M-MACH-101270;Product Lifecycle Management;3;2;9,0;3;Jedes Semester;2 Semester
+M-ETIT-101156;Regelungstechnik;2;2;9,0;3;Jedes Semester;2 Semester
+M-MACH-101279;Technische Logistik;4;2;9,0;3;Jedes Wintersemester;1 Semester
+M-MACH-101275;Verbrennungsmotoren I;4;2;9,0;3;Jedes Wintersemester;1 Semester
+M-MACH-101303;Verbrennungsmotoren II;3;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101284;Vertiefung der Produktionstechnik;4;2;9,0;3;Jedes Semester;2 Semester
+M-MACH-101261;Vertiefung ingenieurwissenschaftlicher Grundlagen;2;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101262;Vertiefung Werkstoffkunde;3;2;9,0;3;Jedes Semester;1 Semester
+M-MACH-101286;Werkzeugmaschinen und Handhabungstechnik;4;2;9,0;3;Jedes Wintersemester;1 Semester
+M-MATH-101676;Mathematik 1;1;1;7,0;0;Jedes Wintersemester;1 Semester
+M-MATH-101677;Mathematik 2;1;1;7,0;0;Jedes Sommersemester;1 Semester
+M-MATH-101679;Mathematik 3;1;1;7,0;0;Jedes Wintersemester;1 Semester
+M-WIWI-101432;Einführung in die Statistik;2;1;10,0;1;Jedes Semester;2 Semester
+M-WIWI-101816;Seminarmodul;5;1;3,0;0;Jedes Semester;1 Semester
+M-WIWI-101460;CRM und Servicemanagement;3;1;9,0;0;Jedes Semester;1 Semester
+M-ETIT-101165;Energieerzeugung und Netzkomponenten;2;1;9,0;0;Jedes Semester;2 Semester
+M-WIWI-101421;Supply Chain Management;9;1;9,0;0;Jedes Semester;1 Semester
+M-WIWI-105447;Teamprojekt Wirtschaft und Technologie (BWL/ING);1;1;9,0;0;Jedes Semester;1 Semester
+M-WIWI-101422;Vertiefung im Customer Relationship Management;5;1;9,0;0;Jedes Semester;1 Semester
+M-WIWI-101426;Wahlpflicht Informatik;12;1;9,0;0;Jedes Semester;1 Semester
+M-INFO-105084;Öffentliches Recht und Privatrecht;2;1;9,0;0;Jedes Semester;2 Semester
+M-GEISTSOZ-101167;Soziologie/Empirische Sozialforschung;2;1;9,0;0;Jedes Wintersemester;2 Semester
+M-WIWI-105440;Teamprojekt Wirtschaft und Technologie;1;1;9,0;0;Jedes Semester;1 Semester
