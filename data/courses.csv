@@ -1,0 +1,778 @@
+Modul;Kennung;Titel;Ver;Gew;LP;Sem
+M-WIWI-101650;T-WIWI-103142;Masterarbeit;1;1;30,0;0
+M-WIWI-101410;T-WIWI-102639;Geschäftsmodelle im Internet: Planung und Umsetzung;2;1;4,5;0
+M-WIWI-101410;T-WIWI-102848;Personalization and Services;1;1;4,5;0
+M-WIWI-101410;T-WIWI-110887;Practical Seminar: Service Innovation;1;1;4,5;0
+M-WIWI-101410;T-WIWI-102847;Recommendersysteme;1;1;4,5;0
+M-WIWI-101410;T-WIWI-102641;Service Innovation;1;1;4,5;0
+M-WIWI-101410;T-WIWI-109940;Spezialveranstaltung Wirtschaftsinformatik;2;1;4,5;0
+M-WIWI-101498;T-WIWI-102800;Management Accounting 1;2;1;4,5;0
+M-WIWI-101498;T-WIWI-102801;Management Accounting 2;2;1;4,5;0
+M-WIWI-101510;T-WIWI-102885;Advanced Management Accounting;2;1;4,5;0
+M-WIWI-101510;T-WIWI-110179;Advanced Management Accounting 2;1;1;4,5;0
+M-WIWI-101510;T-WIWI-105777;Business Intelligence Systems;2;1;4,5;0
+M-WIWI-101510;T-WIWI-105781;Incentives in Organizations;1;1;4,5;0
+M-WIWI-101510;T-WIWI-102835;Marketing Strategy Planspiel;1;1;1,5;0
+M-WIWI-101510;T-WIWI-107720;Market Research;1;1;4,5;0
+M-WIWI-101510;T-WIWI-102883;Pricing;1;1;4,5;0
+M-WIWI-101510;T-WIWI-109864;Product and Innovation Management;1;1;3,0;0
+M-WIWI-101510;T-WIWI-102621;Valuation;1;1;4,5;0
+M-WIWI-101510;T-WIWI-108651;Außerplanmäßige Ergänzungsveranstaltung im Modul Cross-Functional Management Accounting;1;1;4,5;0
+M-WIWI-101470;T-WIWI-109921;Advanced Machine Learning;1;1;4,5;0
+M-WIWI-101470;T-WIWI-102762;Business Dynamics;1;1;4,5;0
+M-WIWI-101470;T-WIWI-110915;Intelligent Agents and Decision Theory;1;1;4,5;0
+M-WIWI-101470;T-WIWI-103549;Intelligente CRM Architekturen;3;1;4,5;0
+M-WIWI-101470;T-WIWI-102848;Personalization and Services;1;1;4,5;0
+M-WIWI-101470;T-WIWI-102847;Recommendersysteme;1;1;4,5;0
+M-WIWI-101470;T-WIWI-105778;Service Analytics A;2;1;4,5;0
+M-WIWI-103117;T-WIWI-108715;Artificial Intelligence in Service Systems;1;1;4,5;0
+M-WIWI-103117;T-WIWI-109863;Business Data Analytics: Application and Tools;2;1;4,5;0
+M-WIWI-103117;T-WIWI-106187;Business Data Strategy;1;1;4,5;0
+M-WIWI-103117;T-WIWI-105777;Business Intelligence Systems;2;1;4,5;0
+M-WIWI-103117;T-WIWI-110918;Introduction to Bayesian Statistics for Analyzing Data;1;1;3,0;0
+M-WIWI-103117;T-WIWI-106207;Seminarpraktikum: Data-Driven Information Systems;1;1;4,5;0
+M-WIWI-103118;T-WIWI-109863;Business Data Analytics: Application and Tools;2;1;4,5;0
+M-WIWI-103118;T-WIWI-102614;Experimentelle Wirtschaftsforschung;1;1;4,5;0
+M-WIWI-103118;T-WIWI-111109;KD²Lab Forschungspraktikum: New Ways and Tools in Experimental Economics;1;1;4,5;0
+M-WIWI-103118;T-WIWI-102899;Modeling and Analyzing Consumer Behavior with R;1;1;4,5;0
+M-WIWI-103118;T-WIWI-108765;Seminarpraktikum: Advanced Analytics;1;1;4,5;0
+M-WIWI-101647;T-WIWI-103139;Marketing Analytics;5;1;4,5;0
+M-WIWI-101647;T-WIWI-107720;Market Research;1;1;4,5;0
+M-WIWI-105032;T-WIWI-102878;Computational Risk and Asset Management;4;0,75;4,5;0
+M-WIWI-105032;T-WIWI-110213;Python for Computational Risk and Asset Management;2;0,25;4,5;0
+M-WIWI-104080;T-WIWI-110851;Designing Interactive Systems;1;1;4,5;0
+M-WIWI-104080;T-WIWI-110877;Engineering Interactive Systems;1;1;4,5;0
+M-WIWI-104080;T-WIWI-111109;KD²Lab Forschungspraktikum: New Ways and Tools in Experimental Economics;1;1;4,5;0
+M-WIWI-104080;T-WIWI-108437;Seminarpraktikum: Information Systems und Service Design;2;1;4,5;0
+M-WIWI-103720;T-WIWI-107501;Energy Market Engineering;1;1;4,5;0
+M-WIWI-103720;T-WIWI-107503;Energy Networks and Regulation;1;1;4,5;0
+M-WIWI-103720;T-WIWI-107504;Smart Grid Applications;2;1;4,5;0
+M-WIWI-103720;T-WIWI-109940;Spezialveranstaltung Wirtschaftsinformatik;2;1;4,5;0
+M-WIWI-101409;T-WIWI-108880;Blockchains & Cryptofinance;1;1;4,5;0
+M-WIWI-101409;T-WIWI-102762;Business Dynamics;1;1;4,5;0
+M-WIWI-101409;T-WIWI-102640;Market Engineering: Information in Institutions;1;1;4,5;0
+M-WIWI-101409;T-WIWI-105946;Preismanagement;1;1;4,5;0
+M-WIWI-101409;T-WIWI-102713;Telekommunikations- und Internetökonomie;1;1;4,5;0
+M-WIWI-101451;T-WIWI-107043;Liberalised Power Markets;1;1;3,0;0
+M-WIWI-101451;T-WIWI-102691;Energiehandel und Risikomanagement;2;1;3,0;0
+M-WIWI-101451;T-WIWI-107501;Energy Market Engineering;1;1;4,5;0
+M-WIWI-101451;T-WIWI-108016;Planspiel Energiewirtschaft;1;1;3,0;0
+M-WIWI-101451;T-WIWI-107446;Quantitative Methods in Energy Economics;2;1;3,0;0
+M-WIWI-101451;T-WIWI-102712;Regulierungstheorie und -praxis;2;1;4,5;0
+M-WIWI-101452;T-WIWI-102793;Efficient Energy Systems and Electric Mobility;1;1;3,5;0
+M-WIWI-101452;T-WIWI-102650;Energie und Umwelt;1;1;4,5;0
+M-WIWI-101452;T-WIWI-102830;Energy Systems Analysis;1;1;3,0;0
+M-WIWI-101452;T-WIWI-107464;Smart Energy Infrastructure;1;1;3,0;0
+M-WIWI-101452;T-WIWI-102695;Wärmewirtschaft;1;1;3,0;0
+M-WIWI-101488;T-WIWI-102864;Entrepreneurship;1;0,5;3,0;0
+M-WIWI-101488;T-WIWI-102865;Geschäftsplanung für Gründer;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102866;Design Thinking;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102833;Entrepreneurial Leadership & Innovation Management;3;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102894;Entrepreneurship-Forschung;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-110985;International Business Development and Sales;1;0,5;6,0;0
+M-WIWI-101488;T-WIWI-102866;Design Thinking;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102851;Developing Business Models for the Semantic Web;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102833;Entrepreneurial Leadership & Innovation Management;3;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102894;Entrepreneurship-Forschung;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102852;Fallstudienseminar Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102639;Geschäftsmodelle im Internet: Planung und Umsetzung;2;0,25;4,5;0
+M-WIWI-101488;T-WIWI-102865;Geschäftsplanung für Gründer;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-110374;Gründen im Umfeld IT-Sicherheit;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102893;Innovationsmanagement: Konzepte, Strategien und Methoden;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-109064;Joint Entrepreneurship Summer School;1;0,5;6,0;0
+M-WIWI-101488;T-WIWI-102612;Management neuer Technologien;2;0,25;3,0;0
+M-WIWI-101488;T-WIWI-102853;Roadmapping;1;0,25;3,0;0
+M-WIWI-101488;T-WIWI-110985;International Business Development and Sales;1;0,5;6,0;0
+M-WIWI-101482;T-WIWI-102643;Derivate;1;1;4,5;0
+M-WIWI-101482;T-WIWI-102621;Valuation;1;1;4,5;0
+M-WIWI-101482;T-WIWI-102647;Asset Pricing;2;1;4,5;0
+M-WIWI-101483;T-WIWI-110513;Advanced Empirical Asset Pricing;1;1;4,5;0
+M-WIWI-101483;T-WIWI-102647;Asset Pricing;2;1;4,5;0
+M-WIWI-101483;T-WIWI-108880;Blockchains & Cryptofinance;1;1;4,5;0
+M-WIWI-101483;T-WIWI-110995;Bond Markets;1;1;4,5;0
+M-WIWI-101483;T-WIWI-110997;Bond Markets - Models & Derivatives;1;1;3,0;0
+M-WIWI-101483;T-WIWI-110996;Bond Markets - Tools & Applications;1;1;1,5;0
+M-WIWI-101483;T-WIWI-102622;Corporate Financial Policy;1;1;4,5;0
+M-WIWI-101483;T-WIWI-109050;Corporate Risk Management;2;1;4,5;0
+M-WIWI-101483;T-WIWI-102643;Derivate;1;1;4,5;0
+M-WIWI-101483;T-WIWI-110797;eFinance: Informationssysteme für den Wertpapierhandel;1;1;4,5;0
+M-WIWI-101483;T-WIWI-102644;Festverzinsliche Titel;1;1;4,5;0
+M-WIWI-101483;T-WIWI-102900;Financial Analysis;1;1;4,5;0
+M-WIWI-101483;T-WIWI-102623;Finanzintermediation;1;1;4,5;0
+M-WIWI-101483;T-WIWI-102626;Geschäftspolitik der Kreditinstitute;1;1;3,0;0
+M-WIWI-101483;T-WIWI-102646;Internationale Finanzierung;1;1;3,0;0
+M-WIWI-101483;T-WIWI-102645;Kreditrisiken;1;1;4,5;0
+M-WIWI-101483;T-WIWI-110511;Strategic Finance and Technoloy Change;1;1;1,5;0
+M-WIWI-101483;T-WIWI-102621;Valuation;1;1;4,5;0
+M-WIWI-101483;T-WIWI-110933;Web App Programming for Finance;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110513;Advanced Empirical Asset Pricing;1;1;4,5;0
+M-WIWI-101480;T-WIWI-102647;Asset Pricing;2;1;4,5;0
+M-WIWI-101480;T-WIWI-108880;Blockchains & Cryptofinance;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110995;Bond Markets;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110997;Bond Markets - Models & Derivatives;1;1;3,0;0
+M-WIWI-101480;T-WIWI-110996;Bond Markets - Tools & Applications;1;1;1,5;0
+M-WIWI-101480;T-WIWI-102622;Corporate Financial Policy;1;1;4,5;0
+M-WIWI-101480;T-WIWI-109050;Corporate Risk Management;2;1;4,5;0
+M-WIWI-101480;T-WIWI-102643;Derivate;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110797;eFinance: Informationssysteme für den Wertpapierhandel;1;1;4,5;0
+M-WIWI-101480;T-WIWI-102644;Festverzinsliche Titel;1;1;4,5;0
+M-WIWI-101480;T-WIWI-102900;Financial Analysis;1;1;4,5;0
+M-WIWI-101480;T-WIWI-102623;Finanzintermediation;1;1;4,5;0
+M-WIWI-101480;T-WIWI-102626;Geschäftspolitik der Kreditinstitute;1;1;3,0;0
+M-WIWI-101480;T-WIWI-102646;Internationale Finanzierung;1;1;3,0;0
+M-WIWI-101480;T-WIWI-102645;Kreditrisiken;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110511;Strategic Finance and Technoloy Change;1;1;1,5;0
+M-WIWI-101480;T-WIWI-102621;Valuation;1;1;4,5;0
+M-WIWI-101480;T-WIWI-110933;Web App Programming for Finance;1;1;4,5;0
+M-WIWI-105036;T-WIWI-106193;Engineering FinTech Solutions;5;1;9,0;0
+M-WIWI-101471;T-WIWI-102631;Anlagenwirtschaft;1;1;5,5;0
+M-WIWI-101471;T-WIWI-102763;Supply Chain Management with Advanced Planning Systems;1;1;3,5;0
+M-WIWI-101471;T-WIWI-102826;Risk Management in Industrial Supply Networks;1;1;3,5;0
+M-WIWI-101471;T-WIWI-102828;Supply Chain Management in der Automobilindustrie;1;1;3,5;0
+M-WIWI-101471;T-WIWI-103134;Project Management;1;1;3,5;0
+M-WIWI-101471;T-WIWI-102634;Emissionen in die Umwelt;1;1;3,5;0
+M-WIWI-101471;T-WIWI-102882;International Management in Engineering and Production;1;1;3,5;0
+M-WIWI-101471;T-WIWI-110512;Life Cycle Assessment;1;1;3,5;0
+M-WIWI-101412;T-WIWI-102632;Produktions- und Logistikmanagement;1;1;5,5;0
+M-WIWI-101412;T-WIWI-102634;Emissionen in die Umwelt;1;1;3,5;0
+M-WIWI-101412;T-WIWI-102882;International Management in Engineering and Production;1;1;3,5;0
+M-WIWI-101412;T-WIWI-110512;Life Cycle Assessment;1;1;3,5;0
+M-WIWI-101412;T-WIWI-102763;Supply Chain Management with Advanced Planning Systems;1;1;3,5;0
+M-WIWI-101412;T-WIWI-102826;Risk Management in Industrial Supply Networks;1;1;3,5;0
+M-WIWI-101412;T-WIWI-102828;Supply Chain Management in der Automobilindustrie;1;1;3,5;0
+M-WIWI-101412;T-WIWI-103134;Project Management;1;1;3,5;0
+M-WIWI-101411;T-WIWI-107501;Energy Market Engineering;1;1;4,5;0
+M-WIWI-101411;T-WIWI-102640;Market Engineering: Information in Institutions;1;1;4,5;0
+M-WIWI-101411;T-WIWI-109940;Spezialveranstaltung Wirtschaftsinformatik;2;1;4,5;0
+M-WIWI-104068;T-WIWI-105777;Business Intelligence Systems;2;1;4,5;0
+M-WIWI-104068;T-WIWI-110851;Designing Interactive Systems;1;1;4,5;0
+M-WIWI-104068;T-WIWI-108437;Seminarpraktikum: Information Systems und Service Design;2;1;4,5;0
+M-WIWI-101507;T-WIWI-102893;Innovationsmanagement: Konzepte, Strategien und Methoden;1;0,5;3,0;0
+M-WIWI-101507;T-WIWI-102873;Aktuelle Themen im Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110867;Die Aushandlung von Open Innovation;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-108875;Digitale Transformation und Geschäftsmodelle;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102852;Fallstudienseminar Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-108774;Innovationsprozesse analysieren und evaluieren;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110234;Innovationsprozesse Live;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110263;Methoden im Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102853;Roadmapping;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110987;Seminar Methoden entlang des Innovationsprozesses;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110986;Seminar Strategische Vorausschau am Praxisbeispiel China;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-109932;Soziale Innovationen unter die Lupe genommen;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102858;Technologiebewertung;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102854;Technologien für das Innovationsmanagement;2;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102873;Aktuelle Themen im Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102866;Design Thinking;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110867;Die Aushandlung von Open Innovation;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-108875;Digitale Transformation und Geschäftsmodelle;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102833;Entrepreneurial Leadership & Innovation Management;3;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102864;Entrepreneurship;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102852;Fallstudienseminar Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-108774;Innovationsprozesse analysieren und evaluieren;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110234;Innovationsprozesse Live;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110263;Methoden im Innovationsmanagement;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102853;Roadmapping;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110987;Seminar Methoden entlang des Innovationsprozesses;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-110986;Seminar Strategische Vorausschau am Praxisbeispiel China;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-109932;Soziale Innovationen unter die Lupe genommen;1;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102854;Technologien für das Innovationsmanagement;2;0,25;3,0;0
+M-WIWI-101507;T-WIWI-102858;Technologiebewertung;1;0,25;3,0;0
+M-WIWI-105312;T-WIWI-111100;Current Directions in Consumer Psychology;1;1;3,0;0
+M-WIWI-105312;T-WIWI-111099;Judgment and Decision Making;1;1;4,5;0
+M-WIWI-105312;T-WIWI-107720;Market Research;1;1;4,5;0
+M-WIWI-105312;T-WIWI-109864;Product and Innovation Management;1;1;3,0;0
+M-WIWI-105312;T-WIWI-102834;Case Studies in Sales and Pricing;3;1;1,5;0
+M-WIWI-105312;T-WIWI-106981;Digital Marketing and Sales in B2B;1;1;1,5;0
+M-WIWI-105312;T-WIWI-110985;International Business Development and Sales;1;1;6,0;0
+M-WIWI-105312;T-WIWI-102835;Marketing Strategy Planspiel;1;1;1,5;0
+M-WIWI-105312;T-WIWI-102891;Preisverhandlungen und Verkaufspräsentationen;3;1;1,5;0
+M-WIWI-105312;T-WIWI-102883;Pricing;1;1;4,5;0
+M-WIWI-101446;T-WIWI-102640;Market Engineering: Information in Institutions;1;1;4,5;0
+M-WIWI-101446;T-WIWI-102613;Auktionstheorie;1;1;4,5;0
+M-WIWI-101446;T-WIWI-108880;Blockchains & Cryptofinance;1;1;4,5;0
+M-WIWI-101446;T-WIWI-110797;eFinance: Informationssysteme für den Wertpapierhandel;1;1;4,5;0
+M-WIWI-101446;T-WIWI-107501;Energy Market Engineering;1;1;4,5;0
+M-WIWI-101446;T-WIWI-107503;Energy Networks and Regulation;1;1;4,5;0
+M-WIWI-101446;T-WIWI-102614;Experimentelle Wirtschaftsforschung;1;1;4,5;0
+M-WIWI-101446;T-WIWI-111109;KD²Lab Forschungspraktikum: New Ways and Tools in Experimental Economics;1;1;4,5;0
+M-WIWI-101446;T-WIWI-107504;Smart Grid Applications;2;1;4,5;0
+M-WIWI-101506;T-WIWI-108715;Artificial Intelligence in Service Systems;1;1;4,5;0
+M-WIWI-101506;T-WIWI-105777;Business Intelligence Systems;2;1;4,5;0
+M-WIWI-101506;T-WIWI-102899;Modeling and Analyzing Consumer Behavior with R;1;1;4,5;0
+M-WIWI-101506;T-WIWI-105778;Service Analytics A;2;1;4,5;0
+M-WIWI-101506;T-WIWI-109940;Spezialveranstaltung Wirtschaftsinformatik;2;1;4,5;0
+M-WIWI-101503;T-WIWI-102849;Service Design Thinking;4;1;12,0;0
+M-WIWI-102754;T-WIWI-110280;Digital Services: Business Models and Transformation;1;1;4,5;0
+M-WIWI-102754;T-WIWI-102640;Market Engineering: Information in Institutions;1;1;4,5;0
+M-WIWI-102806;T-WIWI-110877;Engineering Interactive Systems;1;1;4,5;0
+M-WIWI-102806;T-WIWI-102639;Geschäftsmodelle im Internet: Planung und Umsetzung;2;1;4,5;0
+M-WIWI-102806;T-WIWI-110887;Practical Seminar: Service Innovation;1;1;4,5;0
+M-WIWI-102806;T-WIWI-108437;Seminarpraktikum: Information Systems und Service Design;2;1;4,5;0
+M-WIWI-102806;T-WIWI-102641;Service Innovation;1;1;4,5;0
+M-WIWI-101448;T-WIWI-110280;Digital Services: Business Models and Transformation;1;1;4,5;0
+M-WIWI-101448;T-WIWI-108715;Artificial Intelligence in Service Systems;1;1;4,5;0
+M-WIWI-101448;T-WIWI-102899;Modeling and Analyzing Consumer Behavior with R;1;1;4,5;0
+M-WIWI-101448;T-WIWI-105778;Service Analytics A;2;1;4,5;0
+M-WIWI-101448;T-WIWI-102641;Service Innovation;1;1;4,5;0
+M-WIWI-103119;T-WIWI-106188;Workshop aktuelle Themen Strategie und Management;1;1;3,0;0
+M-WIWI-103119;T-WIWI-106189;Workshop Business Wargaming – Analyse strategischer Interaktionen;1;1;3,0;0
+M-WIWI-103119;T-WIWI-106190;Strategie- und Managementtheorie: Entwicklungen und Klassiker;1;1;3,0;0
+M-WIWI-105010;T-WIWI-102864;Entrepreneurship;1;0,6;3,0;0
+M-WIWI-105010;T-WIWI-110166;SIL Entrepreneurship Projekt;1;0,2;3,0;0
+M-WIWI-105010;T-WIWI-110287;SIL Entrepreneurship Vertiefung;1;0,2;3,0;0
+M-WIWI-101497;T-WIWI-102609;Advanced Topics in Economic Theory;1;1;4,5;0
+M-WIWI-101497;T-WIWI-109194;Dynamic Macroeconomics;1;1;4,5;0
+M-WIWI-101497;T-WIWI-102840;Innovationstheorie und -politik;1;1;4,5;0
+M-WIWI-101497;T-WIWI-103107;Spatial Economics;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102861;Advanced Game Theory;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102613;Auktionstheorie;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102614;Experimentelle Wirtschaftsforschung;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102622;Corporate Financial Policy;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102623;Finanzintermediation;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102640;Market Engineering: Information in Institutions;1;1;4,5;0
+M-WIWI-101453;T-WIWI-102862;Predictive Mechanism and Market Design;1;1;4,5;0
+M-WIWI-101453;T-WIWI-105781;Incentives in Organizations;1;1;4,5;0
+M-WIWI-101504;T-WIWI-102740;Public Management;1;1;4,5;0
+M-WIWI-101504;T-WIWI-102859;Social Choice Theory;1;1;4,5;0
+M-WIWI-101505;T-WIWI-102614;Experimentelle Wirtschaftsforschung;1;1;4,5;0
+M-WIWI-101505;T-WIWI-105781;Incentives in Organizations;1;1;4,5;0
+M-WIWI-101505;T-WIWI-102862;Predictive Mechanism and Market Design;1;1;4,5;0
+M-WIWI-101505;T-WIWI-102863;Topics in Experimental Economics;1;1;4,5;0
+M-WIWI-101514;T-WIWI-102840;Innovationstheorie und -politik;1;1;4,5;0
+M-WIWI-101514;T-WIWI-102906;Methods in Economic Dynamics;2;1;1,5;0
+M-WIWI-101514;T-WIWI-109864;Product and Innovation Management;1;1;3,0;0
+M-WIWI-101514;T-WIWI-102789;Seminar in Wirtschaftspolitik;1;1;3,0;0
+M-WIWI-101478;T-WIWI-109194;Dynamic Macroeconomics;1;1;4,5;0
+M-WIWI-101478;T-WIWI-102785;Endogene Wachstumstheorie;1;1;4,5;0
+M-WIWI-101478;T-WIWI-102840;Innovationstheorie und -politik;1;1;4,5;0
+M-WIWI-101500;T-WIWI-102609;Advanced Topics in Economic Theory;1;1;4,5;0
+M-WIWI-101500;T-WIWI-102861;Advanced Game Theory;1;1;4,5;0
+M-WIWI-101500;T-WIWI-102859;Social Choice Theory;1;1;4,5;0
+M-WIWI-101500;T-WIWI-102613;Auktionstheorie;1;1;4,5;0
+M-WIWI-101500;T-WIWI-105781;Incentives in Organizations;1;1;4,5;0
+M-WIWI-101406;T-WIWI-100005;Wettbewerb in Netzen;3;1;4,5;0
+M-WIWI-101406;T-WIWI-100007;Transportökonomie;1;1;4,5;0
+M-WIWI-101406;T-WIWI-102609;Advanced Topics in Economic Theory;1;1;4,5;0
+M-WIWI-101406;T-WIWI-102712;Regulierungstheorie und -praxis;2;1;4,5;0
+M-WIWI-101406;T-WIWI-102713;Telekommunikations- und Internetökonomie;1;1;4,5;0
+M-WIWI-101638;T-WIWI-103125;Angewandte Ökonometrie;1;1;4,5;0
+M-WIWI-101638;T-WIWI-103066;Data Mining and Applications;2;1;4,5;0
+M-WIWI-101638;T-WIWI-103064;Financial Econometrics;2;1;4,5;0
+M-WIWI-101638;T-WIWI-103126;Nicht- und Semiparametrik;1;1;4,5;0
+M-WIWI-101638;T-WIWI-103127;Paneldaten;1;1;4,5;0
+M-WIWI-101638;T-WIWI-110868;Predictive Modeling;1;1;4,5;0
+M-WIWI-101638;T-WIWI-103065;Statistische Modellierung von allgemeinen Regressionsmodellen;1;1;4,5;0
+M-WIWI-101638;T-WIWI-110939;Financial Econometrics II;2;1;4,5;0
+M-WIWI-101502;T-WIWI-102609;Advanced Topics in Economic Theory;1;1;4,5;0
+M-WIWI-101502;T-WIWI-102861;Advanced Game Theory;1;1;4,5;0
+M-WIWI-101502;T-WIWI-102647;Asset Pricing;2;1;4,5;0
+M-WIWI-101502;T-WIWI-102622;Corporate Financial Policy;1;1;4,5;0
+M-WIWI-101502;T-WIWI-109050;Corporate Risk Management;2;1;4,5;0
+M-WIWI-101502;T-WIWI-102623;Finanzintermediation;1;1;4,5;0
+M-WIWI-101468;T-WIWI-102650;Energie und Umwelt;1;1;4,5;0
+M-WIWI-101468;T-WIWI-100007;Transportökonomie;1;1;4,5;0
+M-WIWI-101468;T-WIWI-102615;Umweltökonomik und Nachhaltigkeit;1;1;5,0;0
+M-WIWI-101468;T-WIWI-102616;Umwelt- und Ressourcenpolitik;1;1;4,0;0
+M-WIWI-101468;T-BGU-111102;Umweltrecht;1;1;3,0;0
+M-WIWI-101511;T-WIWI-102740;Public Management;1;1;4,5;0
+M-WIWI-101511;T-WIWI-108711;Grundlagen der Unternehmensbesteuerung;2;1;4,5;0
+M-WIWI-101511;T-WIWI-102739;Öffentliche Einnahmen;1;1;4,5;0
+M-WIWI-101485;T-WIWI-103107;Spatial Economics;1;1;4,5;0
+M-WIWI-101485;T-WIWI-100007;Transportökonomie;1;1;4,5;0
+M-WIWI-101496;T-WIWI-109194;Dynamic Macroeconomics;1;1;4,5;0
+M-WIWI-101496;T-WIWI-102785;Endogene Wachstumstheorie;1;1;4,5;0
+M-WIWI-101496;T-WIWI-103107;Spatial Economics;1;1;4,5;0
+M-WIWI-101472;T-WIWI-110339;Angewandte Informatik – Internet Computing;1;1;4,5;0
+M-WIWI-101472;T-WIWI-102680;Computational Economics;3;1;4,5;0
+M-WIWI-101472;T-WIWI-109248;Critical Information Infrastructures;4;1;4,5;0
+M-WIWI-101472;T-WIWI-109246;Digital Health;3;1;4,5;0
+M-WIWI-101472;T-WIWI-109270;Human Factors in Security and Privacy;3;1;4,5;0
+M-WIWI-101472;T-WIWI-102661;Datenbanksysteme und XML;2;1;4,5;0
+M-WIWI-101472;T-WIWI-102668;Enterprise Architecture Management;2;1;4,5;0
+M-WIWI-101472;T-WIWI-110346;Ergänzung Betriebliche Informationssysteme;1;1;4,5;0
+M-WIWI-101472;T-WIWI-110372;Ergänzung Software- und Systemsengineering;1;1;4,5;0
+M-WIWI-101472;T-WIWI-106423;Information Service Engineering;2;1;4,5;0
+M-WIWI-101472;T-WIWI-110863;Introduction to Data Science;1;1;4,5;0
+M-WIWI-101472;T-WIWI-102666;Knowledge Discovery;2;1;4,5;0
+M-WIWI-101472;T-WIWI-102667;Management von Informatik-Projekten;3;1;4,5;0
+M-WIWI-101472;T-WIWI-106340;Maschinelles Lernen 1 - Grundverfahren;3;1;4,5;0
+M-WIWI-101472;T-WIWI-106341;Maschinelles Lernen 2 - Fortgeschrittene Verfahren;2;1;4,5;0
+M-WIWI-101472;T-WIWI-102697;Modellierung von Geschäftsprozessen;2;1;4,5;0
+M-WIWI-101472;T-WIWI-102679;Naturinspirierte Optimierungsverfahren;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109799;Process Mining;2;1;4,5;0
+M-WIWI-101472;T-WIWI-110848;Semantic Web Technologies;1;1;4,5;0
+M-WIWI-101472;T-WIWI-102895;Software-Qualitätsmanagement;2;1;4,5;0
+M-WIWI-101472;T-WIWI-102669;Strategisches Management der betrieblichen Informationsverarbeitung;2;1;4,5;0
+M-WIWI-101472;T-WIWI-103112;Web Science;2;1;4,5;0
+M-WIWI-101472;T-WIWI-110144;Emerging Trends in Digital Health;2;1;4,5;0
+M-WIWI-101472;T-WIWI-110143;Emerging Trends in Internet Technologies;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109249;Entwicklung Soziotechnischer Informationssysteme;2;1;4,5;0
+M-WIWI-101472;T-WIWI-111126;Praktikum Blockchain Hackathon (Master);1;1;4,5;0
+M-WIWI-101472;T-WIWI-111125;Praktikum Entwicklung Soziotechnischer Informationssysteme (Master);1;1;4,5;0
+M-WIWI-101472;T-WIWI-110548;Praktikum Informatik (Master);1;1;4,5;0
+M-WIWI-101472;T-WIWI-108439;Praktikum Security, Usability and Society;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109786;Praktikum Sicherheit;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109985;Projektpraktikum Kognitive Automobile und Roboter;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109983;Projektpraktikum Maschinelles Lernen;2;1;4,5;0
+M-WIWI-101472;T-WIWI-109251;Selected Issues in Critical Information Infrastructures;2;1;4,5;0
+M-WIWI-101473;T-WIWI-102719;Gemischt-ganzzahlige Optimierung I;1;1;4,5;0
+M-WIWI-101473;T-WIWI-102726;Globale Optimierung I;1;1;4,5;0
+M-WIWI-101473;T-WIWI-103638;Globale Optimierung I und II;1;1;9,0;0
+M-WIWI-101473;T-WIWI-102856;Konvexe Analysis;1;1;4,5;0
+M-WIWI-101473;T-WIWI-102724;Nichtlineare Optimierung I;4;1;4,5;0
+M-WIWI-101473;T-WIWI-103637;Nichtlineare Optimierung I und II;6;1;9,0;0
+M-WIWI-101473;T-WIWI-102855;Parametrische Optimierung;1;1;4,5;0
+M-WIWI-101473;T-WIWI-106548;Fortgeschrittene Stochastische Optimierung;1;1;4,5;0
+M-WIWI-101473;T-WIWI-102720;Gemischt-ganzzahlige Optimierung II;1;1;4,5;0
+M-WIWI-101473;T-WIWI-102727;Globale Optimierung II;2;1;4,5;0
+M-WIWI-101473;T-WIWI-102723;Graph Theory and Advanced Location Models;2;1;4,5;0
+M-WIWI-101473;T-WIWI-106549;Large-scale Optimierung;1;1;4,5;0
+M-WIWI-101473;T-WIWI-103124;Multivariate Verfahren;1;1;4,5;0
+M-WIWI-101473;T-WIWI-102725;Nichtlineare Optimierung II;3;1;4,5;0
+M-WIWI-101473;T-WIWI-102715;Operations Research in Supply Chain Management;2;1;4,5;0
+M-WIWI-101473;T-WIWI-110162;Optimierungsmodelle in der Praxis;1;1;4,5;0
+M-WIWI-102832;T-WIWI-102723;Graph Theory and Advanced Location Models;2;1;4,5;0
+M-WIWI-102832;T-WIWI-106200;Modellieren und OR-Software: Fortgeschrittene Themen;2;1;4,5;0
+M-WIWI-102832;T-WIWI-102715;Operations Research in Supply Chain Management;2;1;4,5;0
+M-WIWI-102832;T-WIWI-106546;Einführung in die Stochastische Optimierung;1;1;4,5;0
+M-WIWI-102832;T-WIWI-102718;Ereignisdiskrete Simulation in Produktion und Logistik;1;1;4,5;0
+M-WIWI-102832;T-WIWI-102719;Gemischt-ganzzahlige Optimierung I;1;1;4,5;0
+M-WIWI-102832;T-WIWI-102720;Gemischt-ganzzahlige Optimierung II;1;1;4,5;0
+M-WIWI-102832;T-WIWI-110162;Optimierungsmodelle in der Praxis;1;1;4,5;0
+M-WIWI-102832;T-WIWI-106549;Large-scale Optimierung;1;1;4,5;0
+M-WIWI-102805;T-WIWI-102718;Ereignisdiskrete Simulation in Produktion und Logistik;1;1;4,5;0
+M-WIWI-102805;T-WIWI-102884;Operations Research in Health Care Management;2;1;4,5;0
+M-WIWI-102805;T-WIWI-102715;Operations Research in Supply Chain Management;2;1;4,5;0
+M-WIWI-102805;T-WIWI-102716;Praxis-Seminar: Health Care Management (mit Fallstudien);2;1;4,5;0
+M-WIWI-102805;T-WIWI-102872;Challenges in Supply Chain Management;2;1;4,5;0
+M-WIWI-102805;T-WIWI-110971;Demand-Driven Supply Chain Planning;1;1;4,5;0
+M-WIWI-103289;T-WIWI-106546;Einführung in die Stochastische Optimierung;1;1;4,5;0
+M-WIWI-103289;T-WIWI-106548;Fortgeschrittene Stochastische Optimierung;1;1;4,5;0
+M-WIWI-103289;T-WIWI-106549;Large-scale Optimierung;1;1;4,5;0
+M-WIWI-103289;T-WIWI-102723;Graph Theory and Advanced Location Models;2;1;4,5;0
+M-WIWI-103289;T-WIWI-102719;Gemischt-ganzzahlige Optimierung I;1;1;4,5;0
+M-WIWI-103289;T-WIWI-102720;Gemischt-ganzzahlige Optimierung II;1;1;4,5;0
+M-WIWI-103289;T-WIWI-103124;Multivariate Verfahren;1;1;4,5;0
+M-WIWI-103289;T-WIWI-102715;Operations Research in Supply Chain Management;2;1;4,5;0
+M-WIWI-103289;T-WIWI-106545;Optimierungsansätze unter Unsicherheit;2;1;4,5;0
+M-WIWI-103289;T-WIWI-110162;Optimierungsmodelle in der Praxis;1;1;4,5;0
+M-MACH-101298;T-MACH-102162;Automatisierte Produktionsanlagen;2;1;9,0;0
+M-WIWI-101404;T-WIWI-106291;PH APL-ING-TL01;1;1;3,0;0
+M-WIWI-101404;T-WIWI-106292;PH APL-ING-TL02;1;1;3,0;0
+M-WIWI-101404;T-WIWI-106293;PH APL-ING-TL03;1;1;3,0;0
+M-WIWI-101404;T-WIWI-106294;PH APL-ING-TL04 ub;1;1;0,0;0
+M-WIWI-101404;T-WIWI-106295;PH APL-ING-TL05 ub;1;1;0,0;0
+M-WIWI-101404;T-WIWI-106296;PH APL-ING-TL06 ub;1;1;0,0;0
+M-WIWI-101404;T-WIWI-108384;PH APL-ING-TL07;1;1;3,0;0
+M-MACH-101274;T-MACH-102143;Bahnsystemtechnik;3;1;9,0;0
+M-MACH-101290;T-MACH-100966;BioMEMS - Mikrosystemtechnik für Life-Sciences und Medizin I;2;1;3,0;0
+M-MACH-101290;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101290;T-MACH-102165;Ausgewählte Kapitel der Optik und Mikrooptik für Maschinenbauer;1;1;3,0;0
+M-MACH-101290;T-MACH-100967;BioMEMS - Mikrosystemtechnik für Life-Sciences und Medizin II;2;1;3,0;0
+M-MACH-101290;T-MACH-100968;BioMEMS - Mikrosystemtechnik für Life-Sciences und Medizin III;2;1;3,0;0
+M-MACH-101290;T-MACH-101910;Mikroaktorik;2;1;3,0;0
+M-MACH-101290;T-MACH-102172;Bionik für Ingenieure und Naturwissenschaftler;1;1;3,0;0
+M-MACH-101290;T-MACH-102176;Aktuelle Themen der BioMEMS;2;1;4,0;0
+M-BGU-105592;T-BGU-108941;Digitalisierung im Facility- und Immobilienmanagement;1;1;6,0;0
+M-BGU-105592;T-BGU-111211;Energetische Sanierung;1;1;1,5;0
+M-BGU-105592;T-BGU-111212;Facility- und Immobilienmanagement II;1;1;1,5;0
+M-BGU-105592;T-BGU-111210;Schlüsselfertiges Bauen II;1;1;3,0;0
+M-MACH-101296;T-MACH-102211;Energie- und Prozesstechnik für Wirtschaftsingenieure I;1;1;9,0;0
+M-MACH-101297;T-MACH-102212;Energie- und Prozesstechnik für Wirtschaftsingenieure II;1;1;9,0;0
+M-BGU-100998;T-BGU-106613;Bemessungsgrundlagen im Straßenwesen;1;1;3,0;0
+M-BGU-100998;T-BGU-106300;Infrastrukturmanagement;1;1;6,0;0
+M-ETIT-101164;T-ETIT-100830;Elektrische Energienetze;1;1;6,0;0
+M-ETIT-101164;T-ETIT-101941;Energieübertragung und Netzregelung;1;1;5,0;0
+M-ETIT-101164;T-ETIT-101915;Hochspannungsprüftechnik;1;1;4,0;0
+M-BGU-105597;T-BGU-108004;Facility Management im Krankenhaus;1;1;4,5;0
+M-BGU-105597;T-BGU-111218;Bauen im Bestand;1;1;3,0;0
+M-BGU-105597;T-BGU-111211;Energetische Sanierung;1;1;1,5;0
+M-BGU-105597;T-BGU-111212;Facility- und Immobilienmanagement II;1;1;1,5;0
+M-BGU-105597;T-BGU-111217;Projektentwicklung mit Case Study;1;1;1,5;0
+M-MACH-101264;T-MACH-105152;Fahreigenschaften von Kraftfahrzeugen I;1;1;3,0;0
+M-MACH-101264;T-MACH-105153;Fahreigenschaften von Kraftfahrzeugen II;1;1;3,0;0
+M-MACH-101264;T-MACH-105154;Fahrzeugkomfort und -akustik I;1;1;3,0;0
+M-MACH-101264;T-MACH-105155;Fahrzeugkomfort und -akustik II;1;1;3,0;0
+M-MACH-101264;T-MACH-105156;Fahrzeugmechatronik I;1;1;3,0;0
+M-MACH-101264;T-MACH-102156;Project Workshop: Automotive Engineering;1;1;4,5;0
+M-MACH-101265;T-MACH-105156;Fahrzeugmechatronik I;1;1;3,0;0
+M-MACH-101265;T-MACH-105160;Grundsätze der Nutzfahrzeugentwicklung I;1;1;1,5;0
+M-MACH-101265;T-MACH-105161;Grundsätze der Nutzfahrzeugentwicklung II;1;1;1,5;0
+M-MACH-101265;T-MACH-102207;Fahrzeugreifen- und Räderentwicklung für PKW;1;1;3,0;0
+M-MACH-101265;T-MACH-105162;Grundsätze der PKW-Entwicklung I;1;1;1,5;0
+M-MACH-101265;T-MACH-105163;Grundsätze der PKW-Entwicklung II;2;1;1,5;0
+M-MACH-101265;T-MACH-102156;Project Workshop: Automotive Engineering;1;1;4,5;0
+M-MACH-101265;T-MACH-110796;Python Algorithmus für Fahrzeugtechnik;1;1;4,0;0
+M-MACH-101265;T-MACH-105172;Simulation gekoppelter Systeme;2;1;4,0;0
+M-MACH-101265;T-MACH-108888;Simulation gekoppelter Systeme - Vorleistung;1;0;0,0;0
+M-MACH-101265;T-MACH-102148;Verzahntechnik;1;1;4,0;0
+M-MACH-101266;T-MACH-100092;Grundlagen der Fahrzeugtechnik I;3;1;6,0;0
+M-MACH-101266;T-MACH-102117;Grundlagen der Fahrzeugtechnik II;1;1;3,0;0
+M-MACH-101266;T-MACH-102156;Project Workshop: Automotive Engineering;1;1;4,5;0
+M-MACH-101266;T-MACH-102116;Grundlagen zur Konstruktion von Kraftfahrzeugaufbauten I;1;1;1,5;0
+M-MACH-101266;T-MACH-102119;Grundlagen zur Konstruktion von Kraftfahrzeugaufbauten II;1;1;1,5;0
+M-MACH-101266;T-MACH-102093;Fluidtechnik;2;1;5,0;0
+M-MACH-101266;T-MACH-102150;BUS-Steuerungen;2;1;3,0;0
+M-MACH-101266;T-MACH-108889;BUS-Steuerungen - Vorleistung;1;0;0,0;0
+M-MACH-101266;T-MACH-102203;Automotive Engineering I;1;1;6,0;0
+M-MACH-101266;T-MACH-110796;Python Algorithmus für Fahrzeugtechnik;1;1;4,0;0
+M-MACH-101276;T-MACH-102105;Fertigungstechnik;3;1;9,0;0
+M-MACH-101282;T-MACH-110991;Globale Produktion;1;1;4,0;0
+M-MACH-101282;T-MACH-111003;Globale Logistik;1;1;4,0;0
+M-MACH-101282;T-MACH-110981;Übungen zu Globale Produktion;1;1;1,0;0
+M-BGU-101064;T-BGU-106609;Eigenschaften von Verkehrsmitteln;2;1;3,0;0
+M-BGU-101064;T-BGU-106610;Verkehrswesen;2;1;3,0;0
+M-BGU-101064;T-BGU-106611;Güterverkehr;2;1;3,0;0
+M-BGU-101064;T-BGU-106301;Fern- und Luftverkehr;1;1;3,0;0
+M-BGU-101064;T-BGU-101005;Wettbewerb, Planung und Finanzierung im ÖPNV;1;1;3,0;0
+M-BGU-101064;T-BGU-100014;Seminar Verkehrswesen;1;1;3,0;0
+M-BGU-101064;T-WIWI-103174;Seminar Mobility Services (Master);1;1;3,0;0
+M-BGU-101064;T-BGU-103425;Mobilitätsdienste und neue Formen der Mobilität;1;1;3,0;0
+M-BGU-101064;T-BGU-103426;Strategische Verkehrsplanung;2;1;3,0;0
+M-BGU-101064;T-BGU-106608;Informationsmanagement für öffentliche Mobilitätsangebote;1;1;3,0;0
+M-BGU-101064;T-BGU-111057;Nachhaltigkeit in Mobilitätssystemen;1;1;3,0;0
+M-CIWVT-101120;T-CIWVT-101874;Grundlagen Lebensmittelverfahrenstechnik;1;1;9,0;0
+M-ETIT-101163;T-ETIT-110266;Hochspannungstechnik;1;1;6,0;0
+M-ETIT-101163;T-ETIT-100723;Elektronische Systeme und EMV;1;1;3,0;0
+M-MACH-102626;T-MACH-105401;Integrierte Produktentwicklung;1;1;18,0;0
+M-MACH-101272;T-MACH-109054;Integrierte Produktionsplanung im Zeitalter von Industrie 4.0;1;1;9,0;0
+M-BGU-101884;T-BGU-108000;Lean Construction;1;1;4,5;0
+M-BGU-101884;T-BGU-101007;Projektarbeit Lean Construction;1;1;1,5;0
+M-BGU-101884;T-BGU-103430;Schlüsselfertiges Bauen I - Prozesse und Methoden;1;1;1,5;0
+M-BGU-101884;T-BGU-103431;Schlüsselfertiges Bauen II - Gewerke und Technik;1;1;3,0;0
+M-BGU-101884;T-BGU-103427;Bauleitung;1;1;1,5;0
+M-BGU-101884;T-BGU-103429;Baurecht;1;1;3,0;0
+M-BGU-101884;T-BGU-103432;Projektmanagement in der Bau- und Immobilienwirtschaft I;1;1;3,0;0
+M-BGU-101884;T-BGU-103433;Projektmanagement in der Bau- und Immobilienwirtschaft II;1;1;3,0;0
+M-MACH-105298;T-MACH-110771;Logistik und Supply Chain Management;2;1;9,0;0
+M-MACH-101277;T-MACH-102151;Materialfluss in Logistiksystemen;3;1;9,0;0
+M-MACH-101278;T-MACH-105189;Mathematische Modelle und Methoden für Produktionssysteme;1;1;6,0;0
+M-MACH-101278;T-MACH-105151;Energieeffiziente Intralogistiksysteme (mach und wiwi);1;1;4,0;0
+M-MACH-101278;T-MACH-111003;Globale Logistik;1;1;4,0;0
+M-MACH-101278;T-MACH-102128;Informationssysteme in Logistik und Supply Chain Management;2;1;3,0;0
+M-MACH-101278;T-MACH-105187;IT-Grundlagen der Logistik;3;1;4,0;0
+M-MACH-101278;T-MACH-105174;Lager- und Distributionssysteme;2;1;3,0;0
+M-MACH-101278;T-MACH-105175;Logistiksysteme auf Flughäfen;2;1;3,0;0
+M-MACH-101278;T-MACH-105171;Sicherheitstechnik;2;1;4,0;0
+M-MACH-101291;T-MACH-102166;Fertigungsprozesse der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101291;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101291;T-MACH-100530;Physik für Ingenieure;1;1;6,0;0
+M-MACH-101291;T-MACH-102167;Nanotribologie und -mechanik;4;1;3,0;0
+M-MACH-101291;T-MACH-102191;Polymers in MEMS B: Physics, Microstructuring and Applications;1;1;3,0;0
+M-MACH-101291;T-MACH-102192;Polymers in MEMS A: Chemistry, Synthesis and Applications;1;1;3,0;0
+M-MACH-101291;T-MACH-102200;Polymers in MEMS C: Biopolymers and Bioplastics;1;1;3,0;0
+M-MACH-101291;T-MACH-105556;Practical Course Polymers in MEMS;1;1;3,0;0
+M-MACH-101291;T-MACH-109122;Röntgenoptik;1;1;4,0;0
+M-MACH-101292;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101292;T-MACH-102165;Ausgewählte Kapitel der Optik und Mikrooptik für Maschinenbauer;1;1;3,0;0
+M-MACH-101292;T-MACH-101910;Mikroaktorik;2;1;3,0;0
+M-MACH-101292;T-ETIT-100741;Laser Physics;1;1;4,0;0
+M-MACH-101292;T-ETIT-101945;Optical Waveguides and Fibers;1;1;4,0;0
+M-MACH-101292;T-MACH-109122;Röntgenoptik;1;1;4,0;0
+M-MACH-101287;T-MACH-102165;Ausgewählte Kapitel der Optik und Mikrooptik für Maschinenbauer;1;1;3,0;0
+M-MACH-101287;T-MACH-100967;BioMEMS - Mikrosystemtechnik für Life-Sciences und Medizin II;2;1;3,0;0
+M-MACH-101287;T-MACH-100968;BioMEMS - Mikrosystemtechnik für Life-Sciences und Medizin III;2;1;3,0;0
+M-MACH-101287;T-MACH-102172;Bionik für Ingenieure und Naturwissenschaftler;1;1;3,0;0
+M-MACH-101287;T-MACH-105182;Grundlagen der Mikrosystemtechnik I;1;1;3,0;0
+M-MACH-101287;T-MACH-105183;Grundlagen der Mikrosystemtechnik II;1;1;3,0;0
+M-MACH-101287;T-MACH-101910;Mikroaktorik;2;1;3,0;0
+M-MACH-101287;T-MACH-102080;Nanotechnologie mit Clustern;1;1;3,0;0
+M-MACH-101287;T-MACH-102152;Neue Aktoren und Sensoren;3;1;4,0;0
+M-MACH-101287;T-ETIT-101907;Optoelectronic Components;1;1;4,0;0
+M-MACH-101287;T-MACH-100530;Physik für Ingenieure;1;1;6,0;0
+M-MACH-101287;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101267;T-MACH-110959;Grundlagen mobiler Arbeitsmaschinen;1;1;9,0;0 - 1
+M-MACH-101294;T-MACH-105180;Nanotechnologie für Ingenieure und Naturwissenschaftler;1;1;4,0;0
+M-MACH-101294;T-MACH-102080;Nanotechnologie mit Clustern;1;1;3,0;0
+M-MACH-101294;T-MACH-102167;Nanotribologie und -mechanik;4;1;3,0;0
+M-MACH-101294;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-MACH-101294;T-MACH-102152;Neue Aktoren und Sensoren;3;1;4,0;0
+M-MACH-101294;T-MACH-102172;Bionik für Ingenieure und Naturwissenschaftler;1;1;3,0;0
+M-MACH-101294;T-ETIT-100740;Quanteneffektbauelemente und Halbleitertechnologie;1;1;3,0;0
+M-WIWI-104837;T-BGU-101499;Einführung in die Hydrogeologie;1;1;5,0;0
+M-WIWI-104837;T-BGU-108943;Ingenieurhydrologie;1;1;3,0;0
+M-WIWI-104837;T-BGU-106597;Management of Water Resources and River Basins;1;1;6,0;0
+M-WIWI-104837;T-BGU-101859;Morphodynamik;1;1;3,0;0
+M-WIWI-104837;T-BGU-106620;Prüfungsvorleistung Umweltkommunikation;1;1;0,0;0
+M-WIWI-104837;T-BGU-101676;Umweltkommunikation;2;1;4,0;0
+M-MACH-101295;T-ETIT-100639;Optical Transmitters and Receivers;2;1;6,0;0
+M-MACH-101295;T-MACH-102152;Neue Aktoren und Sensoren;3;1;4,0;0
+M-MACH-101295;T-ETIT-101938;Communication Systems and Protocols;1;1;5,0;0
+M-MACH-101295;T-ETIT-100741;Laser Physics;1;1;4,0;0
+M-MACH-101295;T-ETIT-100740;Quanteneffektbauelemente und Halbleitertechnologie;1;1;3,0;0
+M-MACH-101295;T-ETIT-101945;Optical Waveguides and Fibers;1;1;4,0;0
+M-BGU-101888;T-BGU-103432;Projektmanagement in der Bau- und Immobilienwirtschaft I;1;1;3,0;0
+M-BGU-101888;T-BGU-103431;Schlüsselfertiges Bauen II - Gewerke und Technik;1;1;3,0;0
+M-BGU-101888;T-BGU-103427;Bauleitung;1;1;1,5;0
+M-BGU-101888;T-BGU-103430;Schlüsselfertiges Bauen I - Prozesse und Methoden;1;1;1,5;0
+M-BGU-101888;T-BGU-103428;Nachtragsmanagement;1;1;1,5;0
+M-BGU-101888;T-BGU-103429;Baurecht;1;1;3,0;0
+M-BGU-101888;T-BGU-103433;Projektmanagement in der Bau- und Immobilienwirtschaft II;1;1;3,0;0
+M-ETIT-101157;T-ETIT-100981;Automatisierung ereignisdiskreter und hybrider Systeme;1;1;3,0;0
+M-ETIT-101157;T-ETIT-100666;Regelung linearer Mehrgrößensysteme;1;1;6,0;0
+M-ETIT-101158;T-ETIT-101911;Sensoren;2;1;3,0;0
+M-ETIT-101158;T-ETIT-100707;Seminar Sensorik;1;1;3,0;0
+M-ETIT-101158;T-MACH-101910;Mikroaktorik;2;1;3,0;0
+M-ETIT-101158;T-MACH-102164;Praktikum zu Grundlagen der Mikrosystemtechnik;1;1;3,0;0
+M-ETIT-101158;T-MACH-105182;Grundlagen der Mikrosystemtechnik I;1;1;3,0;0
+M-ETIT-101158;T-MACH-105183;Grundlagen der Mikrosystemtechnik II;1;1;3,0;0
+M-BGU-101066;T-BGU-101804;DV-gestützter Straßenentwurf;1;1;3,0;0
+M-BGU-101066;T-BGU-101674;Sicherheitsmanagement im Straßenwesen;1;1;3,0;0
+M-BGU-101066;T-BGU-106615;Verkehrs-, Planungs- und Wegerecht;1;1;3,0;0
+M-MACH-101268;T-MACH-102141;Aufbau und Eigenschaften verschleißfester Werkstoffe;2;1;4,0;0
+M-MACH-101268;T-MACH-100287;Keramik-Grundlagen;1;1;6,0;0
+M-MACH-101268;T-MACH-102099;Experimentelles Schweißtechnisches Praktikum, in Gruppen;2;1;4,0;0
+M-MACH-101268;T-MACH-102111;Grundlagen der Herstellungsverfahren der Keramik und Pulvermetallurgie;1;1;4,0;0
+M-MACH-101268;T-MACH-102154;Praktikum Lasermaterialbearbeitung;2;1;4,0;0
+M-MACH-101268;T-MACH-102102;Physikalische Grundlagen der Lasertechnik;3;1;5,0;0
+M-MACH-101268;T-MACH-102137;Polymerengineering I;1;1;4,0;0
+M-MACH-101268;T-MACH-102138;Polymerengineering II;1;1;4,0;0
+M-MACH-101268;T-MACH-102103;Superharte Dünnschichtmaterialien;2;1;4,0;0
+M-MACH-101268;T-MACH-100531;Systematische Werkstoffauswahl;4;1;4,0;0
+M-MACH-101268;T-MACH-102139;Versagensverhalten von Konstruktionswerkstoffen: Ermüdung und Kriechen;1;1;4,0;0
+M-MACH-101268;T-MACH-102140;Versagensverhalten von Konstruktionswerkstoffen: Verformung und Bruch;1;1;4,0;0
+M-MACH-101268;T-MACH-102157;Pulvermetallurgische Hochleistungswerkstoffe;1;1;4,0;0
+M-MACH-101268;T-MACH-102179;Strukturkeramiken;1;1;4,0;0
+M-MACH-101268;T-MACH-102182;Keramische Prozesstechnik;1;1;4,0;0
+M-MACH-101268;T-MACH-102170;Struktur- und Phasenanalyse;1;1;4,0;0
+M-MACH-101268;T-MACH-105150;Aufbau und Eigenschaften von Schutzschichten;1;1;4,0;0
+M-MACH-101268;T-MACH-105170;Schweißtechnik;1;1;4,0;0
+M-MACH-101268;T-MACH-105164;Lasereinsatz im Automobilbau;2;1;4,0;0
+M-MACH-101268;T-MACH-105157;Gießereikunde;2;1;4,0;0
+M-MACH-101268;T-MACH-105178;Praktikum 'Technische Keramik';1;1;1,0;0
+M-MACH-101268;T-MACH-105179;Funktionskeramiken;1;1;4,0;0
+M-BGU-100999;T-BGU-106300;Infrastrukturmanagement;1;1;6,0;0
+M-BGU-100999;T-BGU-101860;Besondere Kapitel im Straßenwesen und Umweltverträglichkeitsprüfung;1;1;3,0;0
+M-MACH-105455;T-MACH-110176;Digitalisierung von der Produktion bis zum Kunden in der optischen Industrie;2;1;4,0;0
+M-MACH-105455;T-MACH-110991;Globale Produktion;1;1;4,0;0
+M-MACH-105455;T-MACH-110981;Übungen zu Globale Produktion;1;1;1,0;0
+M-MACH-105455;T-MACH-105188;Integrative Strategien und deren Umsetzung in Produktion und Entwicklung von Sportwagen;1;1;4,0;0
+M-MACH-105455;T-MACH-105783;Lernfabrik Globale Produktion;4;1;6,0;0
+M-MACH-105455;T-MACH-110318;Produkt- und Produktionskonzepte für moderne Automobile;1;1;4,0;0
+M-MACH-105455;T-MACH-102107;Qualitätsmanagement;1;1;4,0;0
+M-MACH-101279;T-MACH-109919;Grundlagen der Technischen Logistik I;1;1;4,0;0
+M-MACH-101279;T-MACH-109920;Grundlagen der Technischen Logistik II;1;1;5,0;0
+M-BGU-104448;T-BGU-106600;Urban Water Infrastructure and Management;2;1;6,0;0
+M-BGU-104448;T-BGU-109051;Wastewater and Storm Water Treatment Facilities for Industrial Engineers;1;1;3,0;0
+M-MACH-101275;T-MACH-102194;Verbrennungsmotoren I;1;1;5,0;0
+M-MACH-101275;T-MACH-105564;Energieumsetzung und Wirkungsgradsteigerung bei Verbrennungsmotoren;1;1;4,0;0
+M-MACH-101303;T-MACH-104609;Verbrennungsmotoren II;1;1;5,0;0
+M-MACH-101303;T-MACH-105044;Grundlagen der katalytischen Abgasnachbehandlung bei Verbrennungsmotoren;1;1;4,0;0
+M-MACH-101303;T-MACH-105173;Abgas- und Schmierölanalyse am Verbrennungsmotor;1;1;4,0;0
+M-MACH-101303;T-MACH-105184;Betriebsstoffe für Verbrennungsmotoren;1;1;4,0;0
+M-MACH-101303;T-MACH-105167;Methoden zur Analyse der motorischen Verbrennung;1;1;4,0;0
+M-MACH-101303;T-MACH-105169;Motorenmesstechnik;1;1;4,0;0
+M-MACH-101303;T-MACH-110817;Entwicklung des hybriden Antriebsstranges;1;1;4,0;0
+M-MACH-101303;T-MACH-110816;Großdiesel- und -gasmotoren für Schiffsantriebe;1;1;4,0;0
+M-MACH-101303;T-MACH-105649;Aufladung von Verbrennungsmotoren;1;1;4,0;0
+M-MACH-101303;T-MACH-105985;Zündsysteme;1;1;4,0;0
+M-BGU-101110;T-BGU-101844;Verfahrenstechnik;1;1;3,0;0
+M-BGU-101110;T-BGU-101845;Maschinentechnik;1;1;3,0;0
+M-BGU-101110;T-BGU-101832;Tiefbau;1;1;1,5;0
+M-BGU-101110;T-BGU-101801;Erdbau;1;1;1,5;0
+M-BGU-101110;T-BGU-101846;Tunnelbau und Sprengtechnik;1;1;3,0;0
+M-BGU-101110;T-BGU-101847;Projektstudien;1;1;3,0;0
+M-BGU-101110;T-BGU-101850;Verfahrenstechniken der Demontage;1;1;3,0;0
+M-BGU-101065;T-BGU-101797;Berechnungsverfahren und Modelle in der Verkehrsplanung;1;1;3,0;0
+M-BGU-101065;T-BGU-101798;Straßenverkehrstechnik;1;1;3,0;0
+M-BGU-101065;T-BGU-101799;Verkehrsmanagement und Telematik;1;1;3,0;0
+M-BGU-101065;T-BGU-101800;Simulation von Verkehr;1;1;3,0;0
+M-BGU-101065;T-BGU-100010;Empirische Daten im Verkehrswesen;1;1;3,0;0
+M-BGU-101065;T-BGU-106611;Güterverkehr;2;1;3,0;0
+M-BGU-101065;T-BGU-106301;Fern- und Luftverkehr;1;1;3,0;0
+M-BGU-101065;T-BGU-101005;Wettbewerb, Planung und Finanzierung im ÖPNV;1;1;3,0;0
+M-BGU-101065;T-BGU-100014;Seminar Verkehrswesen;1;1;3,0;0
+M-BGU-101065;T-WIWI-103174;Seminar Mobility Services (Master);1;1;3,0;0
+M-BGU-101065;T-BGU-103425;Mobilitätsdienste und neue Formen der Mobilität;1;1;3,0;0
+M-BGU-101065;T-BGU-103426;Strategische Verkehrsplanung;2;1;3,0;0
+M-BGU-101065;T-BGU-106608;Informationsmanagement für öffentliche Mobilitätsangebote;1;1;3,0;0
+M-BGU-101065;T-BGU-111057;Nachhaltigkeit in Mobilitätssystemen;1;1;3,0;0
+M-MACH-101284;T-MACH-110176;Digitalisierung von der Produktion bis zum Kunden in der optischen Industrie;2;1;4,0;0
+M-MACH-101284;T-MACH-110991;Globale Produktion;1;1;4,0;0
+M-MACH-101284;T-MACH-110981;Übungen zu Globale Produktion;1;1;1,0;0
+M-MACH-101284;T-MACH-105188;Integrative Strategien und deren Umsetzung in Produktion und Entwicklung von Sportwagen;1;1;4,0;0
+M-MACH-101284;T-MACH-105783;Lernfabrik Globale Produktion;4;1;6,0;0
+M-MACH-101284;T-MACH-108878;Praktikum Produktionsintegrierte Messtechnik;2;1;5,0;0
+M-MACH-101284;T-MACH-110318;Produkt- und Produktionskonzepte für moderne Automobile;1;1;4,0;0
+M-MACH-101284;T-MACH-110984;Produktionstechnik für die Elektromobilität;1;1;4,0;0
+M-MACH-101284;T-MACH-110960;Projektpraktikum Additive Fertigung: Entwicklung und Fertigung eines additiven Bauteils;1;1;4,0;0
+M-MACH-101284;T-MACH-102107;Qualitätsmanagement;1;1;4,0;0
+M-MACH-101284;T-MACH-105185;Steuerungstechnik;2;1;4,0;0
+M-MACH-101284;T-MACH-105177;Umformtechnik;1;1;3,0;0
+M-MACH-101284;T-MACH-102148;Verzahntechnik;1;1;4,0;0
+M-CIWVT-101119;T-CIWVT-101875;Vertiefung Lebensmittelverfahrenstechnik;1;1;9,0;0
+M-MACH-104888;T-MACH-102160;Ausgewählte Anwendungen der Technischen Logistik;1;1;4,0;0
+M-MACH-104888;T-MACH-108945;Ausgewählte Anwendungen der Technischen Logistik - Projekt;1;1;2,0;0
+M-MACH-104888;T-MACH-105230;Dezentral gesteuerte Intralogistiksysteme;3;1;4,0;0
+M-MACH-104888;T-MACH-102159;Elemente und Systeme der Technischen Logistik;1;1;4,0;0
+M-MACH-104888;T-MACH-108946;Elemente und Systeme der Technischen Logistik - Projekt;1;1;2,0;0
+M-MACH-104888;T-MACH-105151;Energieeffiziente Intralogistiksysteme (mach und wiwi);1;1;4,0;0
+M-MACH-104888;T-MACH-111003;Globale Logistik;1;1;4,0;0
+M-MACH-104888;T-MACH-102128;Informationssysteme in Logistik und Supply Chain Management;2;1;3,0;0
+M-MACH-104888;T-MACH-105187;IT-Grundlagen der Logistik;3;1;4,0;0
+M-MACH-104888;T-MACH-105174;Lager- und Distributionssysteme;2;1;3,0;0
+M-MACH-104888;T-MACH-105175;Logistiksysteme auf Flughäfen;2;1;3,0;0
+M-MACH-104888;T-MACH-106693;Plug-and-Play Fördertechnik;2;1;4,0;0
+M-MACH-104888;T-MACH-105171;Sicherheitstechnik;2;1;4,0;0
+M-MACH-101283;T-MACH-102123;Virtual Engineering I;2;1;4,0;0
+M-MACH-101283;T-MACH-109933;Betriebsmanagement für Ingenieure und Informatiker;1;1;4,0;0
+M-MACH-101283;T-MACH-102185;CAD-Praktikum CATIA;2;1;2,0;0
+M-MACH-101283;T-MACH-105312;CATIA für Fortgeschrittene;1;1;4,0;0
+M-MACH-101283;T-MACH-108491;Digitalisierung von Produkten, Diensten & Produktion;1;1;4,0;0
+M-MACH-101283;T-MACH-102209;Information Engineering;2;1;3,0;0
+M-MACH-101283;T-MACH-106743;IoT Plattform für Ingenieursanwendungen;1;1;4,0;0
+M-MACH-101283;T-MACH-102153;PLM-CAD Workshop;2;1;4,0;0
+M-MACH-101283;T-MACH-102181;PLM für mechatronische Produktentwicklung;1;1;4,0;0
+M-MACH-101283;T-MACH-106740;Virtual Engineering Praktikum;1;1;4,0;0
+M-MACH-101283;T-MACH-106741;Virtuelle Lernfabrik 4.X;1;1;4,0;0
+M-MACH-101281;T-MACH-102124;Virtual Engineering II;2;1;4,0;0
+M-MACH-101281;T-MACH-109933;Betriebsmanagement für Ingenieure und Informatiker;1;1;4,0;0
+M-MACH-101281;T-MACH-102185;CAD-Praktikum CATIA;2;1;2,0;0
+M-MACH-101281;T-MACH-105312;CATIA für Fortgeschrittene;1;1;4,0;0
+M-MACH-101281;T-MACH-108491;Digitalisierung von Produkten, Diensten & Produktion;1;1;4,0;0
+M-MACH-101281;T-MACH-102209;Information Engineering;2;1;3,0;0
+M-MACH-101281;T-MACH-106743;IoT Plattform für Ingenieursanwendungen;1;1;4,0;0
+M-MACH-101281;T-MACH-102181;PLM für mechatronische Produktentwicklung;1;1;4,0;0
+M-MACH-101281;T-MACH-102153;PLM-CAD Workshop;2;1;4,0;0
+M-MACH-101281;T-MACH-106740;Virtual Engineering Praktikum;1;1;4,0;0
+M-MACH-101281;T-MACH-106741;Virtuelle Lernfabrik 4.X;1;1;4,0;0
+M-CIWVT-101121;T-CIWVT-101900;Wasserchemie und Wassertechnologie I;1;1;6,0;0
+M-CIWVT-101121;T-CIWVT-103351;Wasserchemisches Praktikum;1;1;4,0;0
+M-CIWVT-101122;T-CIWVT-101901;Wasserchemie und Wassertechnologie II;1;1;9,0;0
+M-MACH-101286;T-MACH-110963;Werkzeugmaschinen und hochpräzise Fertigungssysteme;1;1;9,0;0
+M-WIWI-101808;T-WIWI-103474;Seminar Betriebswirtschaftslehre A (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103476;Seminar Betriebswirtschaftslehre B (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103477;Seminar Volkswirtschaftslehre B (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103478;Seminar Volkswirtschaftslehre A (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103479;Seminar Informatik A (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103480;Seminar Informatik B (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103481;Seminar Operations Research A (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103482;Seminar Operations Research B (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103483;Seminar Statistik A (Master);1;1;3,0;0
+M-WIWI-101808;T-WIWI-103484;Seminar Statistik B (Master);1;1;3,0;0
+M-WIWI-101808;T-INFO-101997;Seminar aus Rechtswissenschaften I;1;1;3,0;0
+M-WIWI-101808;T-INFO-105945;Seminar aus Rechtswissenschaften II;1;1;3,0;0
+M-WIWI-101808;T-MACH-102135;Fördertechnik und Logistiksysteme;1;1;3,0;0
+M-WIWI-101808;T-MACH-109062;Produktionstechnisches Seminar;1;1;3,0;0
+M-WIWI-101808;T-MACH-108737;Seminar Data-Mining in der Produktion;1;1;3,0;0
+M-WIWI-101808;T-BGU-100014;Seminar Verkehrswesen;1;1;3,0;0
+M-WIWI-101808;T-WIWI-108763;Seminar Ingenieurwissenschaften (genehmigungspflichtig);1;1;3,0;0
+M-WIWI-101808;T-WIWI-110215;Platzhalter Seminarmodul Master;1;1;3,0;0
+M-WIWI-101808;T-WIWI-104680;Platzhalter SQ-Seminar 1 ub;1;0;1,0;0
+M-WIWI-101808;T-WIWI-104681;Platzhalter SQ-Seminar 2 ub;1;0;2,0;0
+M-WIWI-101808;T-WIWI-104682;Platzhalter SQ-Seminar 3 ub;1;0;3,0;0
+M-WIWI-101808;T-WIWI-104683;Platzhalter SQ-Seminar 4;1;0;1,0;0
+M-WIWI-101808;T-WIWI-104684;Platzhalter SQ-Seminar 5;1;0;2,0;0
+M-WIWI-101808;T-WIWI-104685;Platzhalter SQ-Seminar 6;1;0;3,0;0
+M-WIWI-101808;T-WIWI-105956;Platzhalter SQ-Seminar 8;1;0;4,0;0
+M-WIWI-102808;T-WIWI-102872;Challenges in Supply Chain Management;2;1;4,5;0
+M-WIWI-102808;T-WIWI-110280;Digital Services: Business Models and Transformation;1;1;4,5;0
+M-WIWI-102808;T-WIWI-107043;Liberalised Power Markets;1;1;3,0;0
+M-WIWI-102808;T-WIWI-106200;Modellieren und OR-Software: Fortgeschrittene Themen;2;1;4,5;0
+M-WIWI-102808;T-WIWI-106563;Seminarpraktikum Digital Service Systems;1;1;4,5;0
+M-WIWI-105011;T-ETIT-110291;Innovation Lab;1;1;9,0;0 - 1
+M-WIWI-101628;T-WIWI-110339;Angewandte Informatik – Internet Computing;1;1;4,5;0
+M-WIWI-101628;T-WIWI-102680;Computational Economics;3;1;4,5;0
+M-WIWI-101628;T-WIWI-109248;Critical Information Infrastructures;4;1;4,5;0
+M-WIWI-101628;T-WIWI-109246;Digital Health;3;1;4,5;0
+M-WIWI-101628;T-WIWI-109270;Human Factors in Security and Privacy;3;1;4,5;0
+M-WIWI-101628;T-WIWI-102661;Datenbanksysteme und XML;2;1;4,5;0
+M-WIWI-101628;T-WIWI-102668;Enterprise Architecture Management;2;1;4,5;0
+M-WIWI-101628;T-WIWI-110346;Ergänzung Betriebliche Informationssysteme;1;1;4,5;0
+M-WIWI-101628;T-WIWI-110372;Ergänzung Software- und Systemsengineering;1;1;4,5;0
+M-WIWI-101628;T-WIWI-106423;Information Service Engineering;2;1;4,5;0
+M-WIWI-101628;T-WIWI-110863;Introduction to Data Science;1;1;4,5;0
+M-WIWI-101628;T-WIWI-102666;Knowledge Discovery;2;1;4,5;0
+M-WIWI-101628;T-WIWI-102667;Management von Informatik-Projekten;3;1;4,5;0
+M-WIWI-101628;T-WIWI-106340;Maschinelles Lernen 1 - Grundverfahren;3;1;4,5;0
+M-WIWI-101628;T-WIWI-106341;Maschinelles Lernen 2 - Fortgeschrittene Verfahren;2;1;4,5;0
+M-WIWI-101628;T-WIWI-102697;Modellierung von Geschäftsprozessen;2;1;4,5;0
+M-WIWI-101628;T-WIWI-102679;Naturinspirierte Optimierungsverfahren;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109799;Process Mining;2;1;4,5;0
+M-WIWI-101628;T-WIWI-110848;Semantic Web Technologies;1;1;4,5;0
+M-WIWI-101628;T-WIWI-102895;Software-Qualitätsmanagement;2;1;4,5;0
+M-WIWI-101628;T-WIWI-102669;Strategisches Management der betrieblichen Informationsverarbeitung;2;1;4,5;0
+M-WIWI-101628;T-WIWI-103112;Web Science;2;1;4,5;0
+M-WIWI-101628;T-WIWI-110144;Emerging Trends in Digital Health;2;1;4,5;0
+M-WIWI-101628;T-WIWI-110143;Emerging Trends in Internet Technologies;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109249;Entwicklung Soziotechnischer Informationssysteme;2;1;4,5;0
+M-WIWI-101628;T-WIWI-111126;Praktikum Blockchain Hackathon (Master);1;1;4,5;0
+M-WIWI-101628;T-WIWI-111125;Praktikum Entwicklung Soziotechnischer Informationssysteme (Master);1;1;4,5;0
+M-WIWI-101628;T-WIWI-110548;Praktikum Informatik (Master);1;1;4,5;0
+M-WIWI-101628;T-WIWI-108439;Praktikum Security, Usability and Society;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109786;Praktikum Sicherheit;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109271;Praktikum User Studies in Security;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109985;Projektpraktikum Kognitive Automobile und Roboter;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109983;Projektpraktikum Maschinelles Lernen;2;1;4,5;0
+M-WIWI-101628;T-WIWI-109251;Selected Issues in Critical Information Infrastructures;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110339;Angewandte Informatik – Internet Computing;1;1;4,5;0
+M-WIWI-101630;T-WIWI-102680;Computational Economics;3;1;4,5;0
+M-WIWI-101630;T-WIWI-109248;Critical Information Infrastructures;4;1;4,5;0
+M-WIWI-101630;T-WIWI-109246;Digital Health;3;1;4,5;0
+M-WIWI-101630;T-WIWI-109270;Human Factors in Security and Privacy;3;1;4,5;0
+M-WIWI-101630;T-WIWI-102661;Datenbanksysteme und XML;2;1;4,5;0
+M-WIWI-101630;T-WIWI-102668;Enterprise Architecture Management;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110346;Ergänzung Betriebliche Informationssysteme;1;1;4,5;0
+M-WIWI-101630;T-WIWI-110372;Ergänzung Software- und Systemsengineering;1;1;4,5;0
+M-WIWI-101630;T-WIWI-106423;Information Service Engineering;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110863;Introduction to Data Science;1;1;4,5;0
+M-WIWI-101630;T-WIWI-102666;Knowledge Discovery;2;1;4,5;0
+M-WIWI-101630;T-WIWI-102667;Management von Informatik-Projekten;3;1;4,5;0
+M-WIWI-101630;T-WIWI-106340;Maschinelles Lernen 1 - Grundverfahren;3;1;4,5;0
+M-WIWI-101630;T-WIWI-106341;Maschinelles Lernen 2 - Fortgeschrittene Verfahren;2;1;4,5;0
+M-WIWI-101630;T-WIWI-102697;Modellierung von Geschäftsprozessen;2;1;4,5;0
+M-WIWI-101630;T-WIWI-102679;Naturinspirierte Optimierungsverfahren;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109799;Process Mining;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110848;Semantic Web Technologies;1;1;4,5;0
+M-WIWI-101630;T-WIWI-102895;Software-Qualitätsmanagement;2;1;4,5;0
+M-WIWI-101630;T-WIWI-102669;Strategisches Management der betrieblichen Informationsverarbeitung;2;1;4,5;0
+M-WIWI-101630;T-WIWI-103112;Web Science;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110144;Emerging Trends in Digital Health;2;1;4,5;0
+M-WIWI-101630;T-WIWI-110143;Emerging Trends in Internet Technologies;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109249;Entwicklung Soziotechnischer Informationssysteme;2;1;4,5;0
+M-WIWI-101630;T-WIWI-111126;Praktikum Blockchain Hackathon (Master);1;1;4,5;0
+M-WIWI-101630;T-WIWI-111125;Praktikum Entwicklung Soziotechnischer Informationssysteme (Master);1;1;4,5;0
+M-WIWI-101630;T-WIWI-110548;Praktikum Informatik (Master);1;1;4,5;0
+M-WIWI-101630;T-WIWI-108439;Praktikum Security, Usability and Society;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109786;Praktikum Sicherheit;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109985;Projektpraktikum Kognitive Automobile und Roboter;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109983;Projektpraktikum Maschinelles Lernen;2;1;4,5;0
+M-WIWI-101630;T-WIWI-109251;Selected Issues in Critical Information Infrastructures;2;1;4,5;0
+M-WIWI-101637;T-WIWI-103123;Statistik für Fortgeschrittene;1;1;4,5;0
+M-WIWI-101637;T-WIWI-106341;Maschinelles Lernen 2 - Fortgeschrittene Verfahren;2;1;4,5;0
+M-WIWI-101637;T-WIWI-103124;Multivariate Verfahren;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103066;Data Mining and Applications;2;1;4,5;0
+M-WIWI-101639;T-WIWI-103064;Financial Econometrics;2;1;4,5;0
+M-WIWI-101639;T-WIWI-103124;Multivariate Verfahren;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103126;Nicht- und Semiparametrik;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103127;Paneldaten;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103128;Portfolio and Asset Liability Management;1;1;4,5;0
+M-WIWI-101639;T-WIWI-110868;Predictive Modeling;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103065;Statistische Modellierung von allgemeinen Regressionsmodellen;1;1;4,5;0
+M-WIWI-101639;T-WIWI-103129;Stochastic Calculus and Finance;1;1;4,5;0
+M-WIWI-101639;T-WIWI-110939;Financial Econometrics II;2;1;4,5;0
+M-INFO-101242;T-INFO-101288;Regelkonformes Verhalten im Unternehmensbereich;1;1;3,0;0
+M-INFO-101242;T-INFO-101316;Vertragsgestaltung;1;1;3,0;0
+M-INFO-101242;T-INFO-108405;Datenschutz durch Technik;2;1;3,0;0
+M-INFO-101242;T-INFO-102047;Vertiefungs-Seminar Governance, Risk & Compliance;1;1;3,0;0
+M-INFO-101242;T-INFO-109910;IT-Sicherheitsrecht;1;1;3,0;0
+M-INFO-101242;T-INFO-101307;Internetrecht;2;1;3,0;0
+M-INFO-101217;T-INFO-101309;Telekommunikationsrecht;1;1;3,0;0
+M-INFO-101217;T-INFO-101303;Datenschutzrecht;1;1;3,0;0
+M-INFO-101217;T-INFO-101311;Öffentliches Medienrecht;1;1;3,0;0
+M-INFO-101217;T-INFO-101312;Europäisches und Internationales Recht;1;1;3,0;0
+M-INFO-101217;T-BGU-111102;Umweltrecht;1;1;3,0;0
+M-INFO-101215;T-INFO-102036;Vertragsgestaltung im IT-Bereich;1;1;3,0;0
+M-INFO-101215;T-INFO-101308;Urheberrecht;1;1;3,0;0
+M-INFO-101215;T-INFO-101310;Patentrecht;2;1;3,0;0
+M-INFO-101215;T-INFO-101313;Markenrecht;1;1;3,0;0
+M-INFO-101215;T-INFO-101307;Internetrecht;2;1;3,0;0
+M-INFO-101215;T-INFO-108462;Ausgewählte Rechtsfragen des Internetrechts;1;1;3,0;0
+M-INFO-101216;T-INFO-101329;Arbeitsrecht I;1;1;3,0;0
+M-INFO-101216;T-INFO-101330;Arbeitsrecht II;1;1;3,0;0
+M-INFO-101216;T-INFO-101315;Steuerrecht I;1;1;3,0;0
+M-INFO-101216;T-INFO-101314;Steuerrecht II;1;1;3,0;0
+M-INFO-101216;T-INFO-101316;Vertragsgestaltung;1;1;3,0;0
+M-GEISTSOZ-101169;T-GEISTSOZ-104565;Computergestützte Datenauswertung;1;1;0,0;0
+M-GEISTSOZ-101169;T-GEISTSOZ-109052;Methodenanwendung (WiWi);2;1;9,0;0
+M-INFO-101191;T-INFO-102013;Privatrechtliche Übung;2;1;9,0;0
