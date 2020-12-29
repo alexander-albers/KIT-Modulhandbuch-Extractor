@@ -27,9 +27,11 @@ module_df = pd.DataFrame.from_dict(modules)
 module_df = module_df[
     ["Kennung", "Titel", "Ver", "Gew", "LP", "Sem", "Modulturnus", "Moduldauer"]
 ]
+module_df = module_df.replace("\n", "", regex=True)
 module_df.to_csv("data/modules.csv", index=False, sep=";")
 
 
 course_df = pd.DataFrame.from_dict(courses)
 course_df = course_df[["Modul", "Kennung", "Titel", "Ver", "Gew", "LP", "Sem"]]
+course_df = course_df.replace("\n", "", regex=True)
 course_df.to_csv("data/courses.csv", index=False, sep=";")
